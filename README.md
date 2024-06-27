@@ -7,6 +7,8 @@ Gocommerce is an ecosystem of e-commerce microservices.
 - [Gocommerce GraphQL API](https://github.com/dribeiroferr/gocommerce-api-graphql)
 - [Gocommerce REST API](https://github.com/dribeiroferr/gocommerce-api-rest)
 - [Gocommerce Authenticator Microservice](https://github.com/dribeiroferr/gocommerce-ms-auth)
+- [Gocommerce User Microservice](https://github.com/dribeiroferr/gocommerce-ms-orders)
+- [Gocommerce User Microservice](https://github.com/dribeiroferr/gocommerce-ms-payments)
 - [Gocommerce Product Microservice](https://github.com/dribeiroferr/gocommerce-ms-products)
 - [Gocommerce User Microservice](https://github.com/dribeiroferr/gocommerce-ms-users)
 
